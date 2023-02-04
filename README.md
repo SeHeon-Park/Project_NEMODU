@@ -7,7 +7,7 @@
     <summary><b>기술 스택</b></summary>
 <div markdown="1">
 
-![image](https://user-images.githubusercontent.com/77626299/214998643-ebc1518f-6689-4664-82a9-c7fed60afe82.png)
+![project_architecture](https://user-images.githubusercontent.com/68144687/216758811-ebe93272-cae9-49c2-b75e-7d57feb86229.png)
     </div>
 </details>
 
