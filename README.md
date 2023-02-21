@@ -1,5 +1,6 @@
 ## Description
 유저들이 걷거나 뛰며 실제 지도에서 땅따먹기하며 점수를 얻고 랭크제를 통해 서로 경쟁하는 서비스
+- <a href="https://www.youtube.com/watch?v=gFkrgJt2ttQ">📺 시연 영상</a>  
 
 ## 프로젝트 정보
 
